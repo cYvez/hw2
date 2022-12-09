@@ -1,0 +1,7 @@
+put data files into these two dirs:
+- bd:
+  - bd_test.h5
+  - bd_valid.h5
+-cl:
+  - test.h5
+  - valid.h5
