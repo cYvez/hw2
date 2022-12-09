@@ -2,7 +2,7 @@
 
 ## environment
 - easily use google colab to run `Homework_2.ipynb`
-![colab](\figures\colab.png)
+![colab](https://github.com/cYvez/hw2/tree/master/figures/colab.png)
 - if your want to use your local environment to run this code, make sure you have tensorflow 2.x (that is because we use google colab to save the model, resulting in model files which are not compatible with tensorflow1.x)
 
 ## how to run the code
@@ -22,4 +22,4 @@
 
 ## how to evaluate my repaired model
 I have provided the code of the evaluation at the end of Homework_2.ipynb, you can check the evaluation results or run it with google colab
-![eval](\figures\eval.png)
+![eval](https://github.com/cYvez/hw2/tree/master/figures/eval.png)
